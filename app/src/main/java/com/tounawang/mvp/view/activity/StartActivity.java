@@ -27,7 +27,6 @@ public class StartActivity extends BaseActivity implements BaseView.StartActivit
     private StartActivityPresenterImpl mPresenterImpl;
     private String url="https://www.google.com";
 
-
     @Override
     protected int getLayoutId() {
         return R.layout.activity_start;
