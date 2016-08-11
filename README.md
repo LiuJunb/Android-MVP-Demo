@@ -1,5 +1,5 @@
 # Android-MVP-Demo
-一个基于MVP开发模式的Android项目：
+一个基于MVP开发模式简单的Android项目：
 
 ###该项目涉及的技术有：###
 
@@ -10,5 +10,14 @@
 - gson 数据解释
 
 
+###项目大概的结构图：###
+
+![](http://i.imgur.com/hAJ3lkW.png)
 
 
+### 效果图###
+<img src="screenshot/1.png"/>
+
+<img src="screenshot/2.png"/>
+
+<img src="screenshot/3.png"/>
